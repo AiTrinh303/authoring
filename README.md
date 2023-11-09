@@ -2,7 +2,7 @@
 ## Create checkboxes with the following tasks:
 * [ ] <a name="ExternalLink"> </a> External Link
 * [ ] <a name="InternalLink"> </a> Internal Link
-* [ ] Images
+* [ ] <a name="Images"> </a> Images
 * [ ] Emojis
 * [ ] Tables
 ## Add an external link to the github documentation 
@@ -28,3 +28,4 @@
 ## Link each of the secondary headings to the respective checkbox items
 - [External Link](#ExternalLink)
 - [Internal Link](#InternalLink)
+- [Images](#Images)
