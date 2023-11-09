@@ -1,10 +1,10 @@
 # Github Flavoured Markdown
 ## Create checkboxes with the following tasks:
-* [ ] <a name="ExternalLink"> </a> External Link
-* [ ] <a name="InternalLink"> </a> Internal Link
-* [ ] <a name="Images"> </a> Images
-* [ ] <a name="Emojis"> </a> Emojis
-* [ ] <a name="Tables"> </a> Tables
+* [ ]  External Link
+* [ ]  Internal Link
+* [ ]  Images
+* [ ]  Emojis
+* [ ]  Tables
 
 <a name="ExternalLink"> </a>
 ## Add an external link to the github documentation 
