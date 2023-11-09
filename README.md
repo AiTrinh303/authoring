@@ -5,6 +5,8 @@
 * [ ] <a name="Images"> </a> Images
 * [ ] <a name="Emojis"> </a> Emojis
 * [ ] <a name="Tables"> </a> Tables
+
+<a name="ExternalLink"> </a>
 ## Add an external link to the github documentation 
 
 - [Link](https://help.github.com/en)
