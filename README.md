@@ -24,7 +24,7 @@
 ## Add an emoji
 - 	:grinning: :stuck_out_tongue_winking_eye:	:face_with_spiral_eyes: :pleading_face:
 
-<a name="Tables">
+<a name="Tables"> </a>
 ## Add a table with two headings, names and class. Populate at least two rows of the table
 | Name | Class         | 
 | :--: | :-----------: | 
