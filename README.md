@@ -1,6 +1,5 @@
 # Github Flavoured Markdown
 ### Create checkboxes with the following tasks:
-* [x] External Link
 * [ ] External Link
 * [ ] Internal Link
 * [x] Images
@@ -8,4 +7,8 @@
 * [ ] Tables
 ### Add an external link to the github documentation 
 
-[Link](https://help.github.com/en)
+- [Link](https://help.github.com/en)
+
+### Add a link to the images folder
+
+- [Images](https://github.com/FBW-23-E10/013-bdl-github-flavoured-markdown-AiTrinh303/tree/main/images)
