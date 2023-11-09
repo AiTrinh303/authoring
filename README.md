@@ -12,3 +12,8 @@
 ### Add a link to the images folder
 
 - [Images](https://github.com/FBW-23-E10/013-bdl-github-flavoured-markdown-AiTrinh303/tree/main/images)
+
+### Add the image from the images folder.
+- ![Markdown Logo](https://github.com/FBW-23-E10/013-bdl-github-flavoured-markdown-Hafezalaa/blob/main/images/logo.png)
+
+### Add an emoji
