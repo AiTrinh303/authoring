@@ -26,5 +26,5 @@
 | Viki | German        | 
 
 ## Link each of the secondary headings to the respective checkbox items
-[External Link](#ExternalLink)
-[Internal Link](#InternalLink)
+- [External Link](#ExternalLink)
+- [Internal Link](#InternalLink)
