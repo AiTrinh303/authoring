@@ -3,8 +3,8 @@
 * [ ] <a name="ExternalLink"> </a> External Link
 * [ ] <a name="InternalLink"> </a> Internal Link
 * [ ] <a name="Images"> </a> Images
-* [ ] Emojis
-* [ ] Tables
+* [ ] <a name="Emojis"> </a> Emojis
+* [ ] <a name="Tables"> </a> Tables
 ## Add an external link to the github documentation 
 
 - [Link](https://help.github.com/en)
@@ -29,3 +29,6 @@
 - [External Link](#ExternalLink)
 - [Internal Link](#InternalLink)
 - [Images](#Images)
+- [Emojis](#Emojis)
+- [Tables](#Tables)
+  
