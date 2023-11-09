@@ -1,7 +1,7 @@
 # Github Flavoured Markdown
 ## Create checkboxes with the following tasks:
 * [ ] <a name="ExternalLink"> </a> External Link
-* [ ] Internal Link
+* [ ] <a name="InternalLink"> </a> Internal Link
 * [ ] Images
 * [ ] Emojis
 * [ ] Tables
@@ -27,3 +27,4 @@
 
 ## Link each of the secondary headings to the respective checkbox items
 [External Link](#ExternalLink)
+[Internal Link](#InternalLink)
