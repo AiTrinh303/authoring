@@ -14,7 +14,7 @@
 <a name="InternalLink"> </a>
 ## Add a link to the images folder
 
-- [Images](https://github.com/AiTrinh303/authoring/tree/main/Images))
+- [Images](https://github.com/AiTrinh303/authoring/tree/main/Images)
 
 <a name="Images"> </a>
 ## Add the image from the images folder.
