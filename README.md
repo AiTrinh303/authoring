@@ -18,7 +18,7 @@
 
 <a name="Images"> </a>
 ## Add the image from the images folder.
-<img src = “images/logo.png” width = "200">
+<img src = “authoring/Images/logo.png” width = "200">
 
 ![Markdown Logo](https://github.com/FBW-23-E10/013-bdl-github-flavoured-markdown-AiTrinh303/blob/main/images/logo.png)
 
