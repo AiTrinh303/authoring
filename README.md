@@ -18,7 +18,7 @@
 
 <a name="Images"> </a>
 ## Add the image from the images folder.
-- ![Markdown Logo](https://github.com/FBW-23-E10/013-bdl-github-flavoured-markdown-Hafezalaa/blob/main/images/logo.png)
+- ![Markdown Logo](https://github.com/FBW-23-E10/013-bdl-github-flavoured-markdown-AiTrinh303/blob/main/images/logo.png)
 
 <a name="Emojis"> </a>
 ## Add an emoji
